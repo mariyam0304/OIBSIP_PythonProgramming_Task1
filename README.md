@@ -31,6 +31,24 @@ To create a basic voice assistant that can perform simple tasks like responding 
 - OS: Windows 10  
 
 ---
+## 🚀 How to Run
+1. Install required packages:
+   pip install sounddevice numpy speechrecognition pyttsx3 pywhatkit
+2. Run the program:
+python voice_assistant.py
+
+---
+
+
+## 📸 Output Example
+- Assistant: “Hello Mariyam! How can I help you?”
+- You: “What’s the time?”
+- Assistant: “It’s 4:30 PM.”
+
+---
+
+## 👏 Author
+**Mariyam Shakir — Oasis Infobyte Python Programming Intern**
 
 ## 🚀 How to Run
 1. Install required packages:

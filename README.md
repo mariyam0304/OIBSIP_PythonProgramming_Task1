@@ -36,7 +36,7 @@ To create a basic voice assistant that can perform simple tasks like responding 
 
    pip install sounddevice numpy speechrecognition pyttsx3 pywhatkit
 2. Run the program:
-3. 
+   
 python voice_assistant.py
 
 ---
